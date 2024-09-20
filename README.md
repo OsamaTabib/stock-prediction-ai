@@ -27,7 +27,6 @@ To install the required packages, run:
 pip install yfinance pandas numpy scikit-learn tensorflow matplotlib
 ```
 
-# Stock Price Prediction Using LSTM
 
 ## How to Use
 
